@@ -2,8 +2,8 @@
     {
       "model": "gpt-4",
       "api_type": "azure",
-      "api_key": "a1acd03e9b67442587e95271717aa709",
-      "base_url": "https://crystal.openai.azure.com/openai/deployments/gpt-4/chat/completions?api-version=2023-03-15-preview",
-      "api_version": "2023-03-15-preview"
+      "api_key": "",
+      "base_url":"" ,
+      "api_version": ""
     }
   ]
